@@ -1,6 +1,8 @@
 //  FigureViewController.swift
 //  Created by Amanda Zong on 8/3/17.
 //  Credits: Camera App Swift Tutorial by Brian Advent (https://www.youtube.com/watch?v=Zv4cJf5qdu0)
+//  Description: Displays any figures corresponding to skin lesion features, such such as pigmented networks and 
+//  color variation.
 
 import Foundation
 

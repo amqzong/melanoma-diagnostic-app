@@ -1,6 +1,7 @@
 //  PhotoViewController.swift
 //  Description: Allows users to view their taken photo and retake if needed. Assigns the image a unique identifying tag,
-//  uploads the image to Dropbox, which connects to a remote melanoma classification model that extracts melanoma indicative //  features from the image, applies learned parameters onto the features, and outputs a diagnosis and related figures to 
+//  uploads the image to Dropbox, which connects to a remote melanoma classification model that extracts melanoma indicative
+//  features from the image, applies learned parameters onto the features, and outputs a diagnosis and related figures to 
 //  Dropbox with the same identifying tag as the original image. The app then receives the results and passes it to 
 //  FigureViewController.
 //  Created by Amanda Zong on 7/18/17.

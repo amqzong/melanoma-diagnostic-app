@@ -3,8 +3,6 @@
 //  takePicBrianAdvent2
 //
 //  Created by Amanda Zong on 7/18/17.
-//  Copyright © 2017 Daniel Gareau. All rights reserved.
-//
 
 import UIKit
 import AVFoundation

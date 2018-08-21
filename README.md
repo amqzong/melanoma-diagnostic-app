@@ -1,9 +1,11 @@
 # MelanomaDiagnosis-App
 
 # Description: 
+
 iOS app that allows users to take pictures of suspicious skin lesion, receive a diagnosis from a melanoma classification model, and view the diagnosis and related figures. (iPhone7 requirements)
 
 # To Run: 
+
 Download the workspace (takePicBrianAdvent2).
 
 # Main Files:
@@ -21,5 +23,7 @@ Name: FigureViewController.swift
 Description: Displays any figures corresponding to skin lesion features, such such as pigmented networks and color variation.
 
 # Credits: 
+
 Camera App Swift Tutorial by Brian Advent (https://www.youtube.com/watch?v=Zv4cJf5qdu0)
+
 Daniel Gareau (Mentor)

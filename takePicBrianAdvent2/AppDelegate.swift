@@ -1,8 +1,7 @@
 //
 //  AppDelegate.swift
-//  takePicBrianAdvent2
-//
-//  Created by Amanda Zong on 7/18/17.
+//  Created by Amanda Zong on 7/18/17
+//  Credits: Camera App Swift Tutorial by Brian Advent (https://www.youtube.com/watch?v=Zv4cJf5qdu0)
 
 
 import UIKit

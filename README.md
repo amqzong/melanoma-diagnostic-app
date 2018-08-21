@@ -6,7 +6,7 @@ iOS app that allows users to take pictures of suspicious skin lesion, receive a 
 # To Run: 
 Download the workspace (takePicBrianAdvent2).
 
-# Most Relevant Files:
+# Main Files:
 
 Name: ViewController.swift
 

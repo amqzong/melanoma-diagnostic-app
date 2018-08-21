@@ -1,4 +1,5 @@
 //  ViewController.swift
+//  Description: Initializes app and camera feed. If an image is taken, passes it onto PhotoViewController.
 //  Created by Amanda Zong on 7/18/17.
 //  Credits: Camera App Swift Tutorial by Brian Advent (https://www.youtube.com/watch?v=Zv4cJf5qdu0)
 

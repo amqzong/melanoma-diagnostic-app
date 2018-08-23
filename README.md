@@ -4,7 +4,7 @@
 
 iOS app that allows users to take pictures of suspicious skin lesion, receive a diagnosis from a melanoma classification model, and view the diagnosis and related figures. (iPhone7 requirements)
 
-This code was written for a project to create a diagnostic app for melanoma. The code for the machine learning classification model has also been posted in an repository on Github entitled "melanoma-diagnosis-classification-model." 
+This code was written for a project to create a diagnostic app for melanoma. The code for the machine learning classification model has also been posted in an repository on Github entitled "melanoma-diagnostic-classification-model." 
 The project was conducted from Summer 2016 to Summer 2017 in the Laboratory for Investigative Dermatology at Rockefeller University in New York, NY.
 
 # To Run

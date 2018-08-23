@@ -1,4 +1,4 @@
-# Melanoma Diagnosis App
+# Melanoma Diagnostic App
 
 # Description
 
